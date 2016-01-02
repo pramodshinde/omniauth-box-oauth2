@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/omniauth-box-oauth2.svg)](https://badge.fury.io/rb/omniauth-box-oauth2)
+[![Build Status](https://travis-ci.org/pramodshinde/omniauth-box-oauth2.svg?branch=master)](https://travis-ci.org/pramodshinde/omniauth-box-oauth2)
+
 # OmniAuth::Strategies::BoxOauth2
 
 OAuth2 Strategy for [Box](https://www.box.com/)
