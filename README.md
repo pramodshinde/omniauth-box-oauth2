@@ -1,5 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/omniauth-box-oauth2.svg)](https://badge.fury.io/rb/omniauth-box-oauth2)
 [![Build Status](https://travis-ci.org/pramodshinde/omniauth-box-oauth2.svg?branch=master)](https://travis-ci.org/pramodshinde/omniauth-box-oauth2)
+[![Code Climate](https://codeclimate.com/github/pramodshinde/omniauth-box-oauth2/badges/gpa.svg)](https://codeclimate.com/github/pramodshinde/omniauth-box-oauth2)
+[![Test Coverage](https://codeclimate.com/github/pramodshinde/omniauth-box-oauth2/badges/coverage.svg)](https://codeclimate.com/github/pramodshinde/omniauth-box-oauth2/coverage)
 [![Dependency Status](https://gemnasium.com/pramodshinde/omniauth-box-oauth2.svg)](https://gemnasium.com/pramodshinde/omniauth-box-oauth2)
 
 # OmniAuth::Strategies::BoxOauth2
